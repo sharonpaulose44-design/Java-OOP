@@ -20,7 +20,7 @@ class Book {
     }
 }
 
-public class Main {
+public class BookDemo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
