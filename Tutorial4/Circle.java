@@ -3,7 +3,7 @@ import java.util.Scanner;
 class Circle {
     double radius;
 
-    // Parameterized constructor
+   
     Circle(double radius) {
         this.radius = radius;
     }
