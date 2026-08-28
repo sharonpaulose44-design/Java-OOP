@@ -1,4 +1,4 @@
-package OOP;
+
 class Animal {
     String species;
     Animal(String species) {
